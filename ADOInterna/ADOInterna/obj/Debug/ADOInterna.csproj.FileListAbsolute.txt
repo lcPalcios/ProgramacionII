@@ -1,1 +1,11 @@
 C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionII\ADOInterna\ADOInterna\bin\Debug\ADOInterna.exe.config
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionII\ADOInterna\ADOInterna\bin\Debug\ADOInterna.exe
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionII\ADOInterna\ADOInterna\bin\Debug\ADOInterna.pdb
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionII\ADOInterna\ADOInterna\bin\Debug\MetroFramework.dll
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionII\ADOInterna\ADOInterna\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionII\ADOInterna\ADOInterna\obj\Debug\ADOInterna.csprojResolveAssemblyReference.cache
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionII\ADOInterna\ADOInterna\obj\Debug\ADOInterna.Form1.resources
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionII\ADOInterna\ADOInterna\obj\Debug\ADOInterna.Properties.Resources.resources
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionII\ADOInterna\ADOInterna\obj\Debug\ADOInterna.csproj.GenerateResource.Cache
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionII\ADOInterna\ADOInterna\obj\Debug\ADOInterna.exe
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionII\ADOInterna\ADOInterna\obj\Debug\ADOInterna.pdb
