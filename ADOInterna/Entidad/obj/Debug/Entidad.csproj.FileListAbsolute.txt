@@ -1,0 +1,5 @@
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionII\ADOInterna\Entidad\bin\Debug\Entidad.dll
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionII\ADOInterna\Entidad\bin\Debug\Entidad.pdb
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionII\ADOInterna\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionII\ADOInterna\Entidad\obj\Debug\Entidad.dll
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionII\ADOInterna\Entidad\obj\Debug\Entidad.pdb

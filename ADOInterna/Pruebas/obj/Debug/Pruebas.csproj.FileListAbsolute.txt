@@ -1,0 +1,8 @@
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionII\ADOInterna\Pruebas\bin\Debug\Pruebas.exe.config
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionII\ADOInterna\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionII\ADOInterna\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionII\ADOInterna\Pruebas\obj\Debug\Pruebas.Form1.resources
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionII\ADOInterna\Pruebas\obj\Debug\Pruebas.Properties.Resources.resources
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionII\ADOInterna\Pruebas\obj\Debug\Pruebas.csproj.GenerateResource.Cache
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionII\ADOInterna\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionII\ADOInterna\Pruebas\obj\Debug\Pruebas.pdb

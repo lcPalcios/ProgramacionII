@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOInterna", "ADOInterna\ADOInterna.csproj", "{EE0C16C4-FB7E-4E6F-BAEA-F1A2539FD123}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidad", "Entidad\Entidad.csproj", "{DBE83981-4620-47EC-842A-8481D40157CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{3DB538C9-6224-402E-8ABD-A7ECCFEAE394}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{EE0C16C4-FB7E-4E6F-BAEA-F1A2539FD123}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE0C16C4-FB7E-4E6F-BAEA-F1A2539FD123}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE0C16C4-FB7E-4E6F-BAEA-F1A2539FD123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBE83981-4620-47EC-842A-8481D40157CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE83981-4620-47EC-842A-8481D40157CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE83981-4620-47EC-842A-8481D40157CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE83981-4620-47EC-842A-8481D40157CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DB538C9-6224-402E-8ABD-A7ECCFEAE394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB538C9-6224-402E-8ABD-A7ECCFEAE394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB538C9-6224-402E-8ABD-A7ECCFEAE394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB538C9-6224-402E-8ABD-A7ECCFEAE394}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
