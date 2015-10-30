@@ -1,0 +1,5 @@
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionI\Sistema\Sistema.BLL\bin\Debug\Sistema.BLL.dll
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionI\Sistema\Sistema.BLL\bin\Debug\Sistema.BLL.pdb
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionI\Sistema\Sistema.BLL\obj\Debug\Sistema.BLL.csprojResolveAssemblyReference.cache
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionI\Sistema\Sistema.BLL\obj\Debug\Sistema.BLL.dll
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionI\Sistema\Sistema.BLL\obj\Debug\Sistema.BLL.pdb

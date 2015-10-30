@@ -1,0 +1,5 @@
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionI\Sistema\Sistema.UI\bin\Debug\Sistema.UI.dll
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionI\Sistema\Sistema.UI\bin\Debug\Sistema.UI.pdb
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionI\Sistema\Sistema.UI\obj\Debug\Sistema.UI.csprojResolveAssemblyReference.cache
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionI\Sistema\Sistema.UI\obj\Debug\Sistema.UI.dll
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionI\Sistema\Sistema.UI\obj\Debug\Sistema.UI.pdb

@@ -1,0 +1,5 @@
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionI\Sistema\Sistema.Entity\bin\Debug\Sistema.Entity.dll
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionI\Sistema\Sistema.Entity\bin\Debug\Sistema.Entity.pdb
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionI\Sistema\Sistema.Entity\obj\Debug\Sistema.Entity.csprojResolveAssemblyReference.cache
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionI\Sistema\Sistema.Entity\obj\Debug\Sistema.Entity.dll
+C:\Users\LC\Documents\GitHub\Clases\Programacion II\ProgramacionI\Sistema\Sistema.Entity\obj\Debug\Sistema.Entity.pdb
